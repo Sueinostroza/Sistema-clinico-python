@@ -23,9 +23,9 @@ El programa funciona mediante un menú interactivo y se encuentra modularizado p
 ## 📁 Estructura de datos utilizadas
 - **Lista**: Almacena los pacientes registrados
 - **Diccionarios**: Representa cada paciente, tabla de valores y descuentos
--**Set**: Evita el registro de nombres duplicados
--**Tupla**: Contiene los tipos de consulta médica
--**Recursividad**: Utilizada para el conteo de pacientes registrados
+- **Set**: Evita el registro de nombres duplicados
+- **Tupla**: Contiene los tipos de consulta médica
+- **Recursividad**: Utilizada para el conteo de pacientes registrados
 
 ---
 
@@ -41,10 +41,10 @@ README.md
 ---
 
 ## Cómo ejecutar el proyecto
-1.-Clonar o descargar el repositorio
-2.-Abrir el proyecto en VS Code
-3.-Ejecutar el archivo 'main.py'
-4.-Interactuar con el menú desde la consola
+1. Clonar o descargar el repositorio
+2. Abrir el proyecto en VS Code
+3. Ejecutar el archivo 'main.py'
+4. Interactuar con el menú desde la consola
 
 ---
 
