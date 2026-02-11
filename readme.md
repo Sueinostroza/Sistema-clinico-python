@@ -2,8 +2,7 @@
 
 
 ## 📝 Descripción
-Este proyecto corresponde a una app desarrollada en Python que permite gestionar el registro de pacientes en una clínica privada.
-El sistema permite registrar pacientes, visualizarlos, buscarlos por nombre o ID, calcular el valor de una consulta según su previsión y también se puede eliminar los pacientes registrados.
+Este proyecto corresponde a un sistema desarrollado en Python que permite gestionar el registro de pacientes en una clínica privada, visualizarlos, buscarlos por nombre o ID, calcular el valor de una consulta según su previsión y también se puede eliminar los pacientes registrados.
 
 El programa funciona mediante un menú interactivo y se encuentra modularizado para facilitar su mantenimiento y legibilidad.
 
