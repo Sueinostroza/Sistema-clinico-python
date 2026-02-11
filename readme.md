@@ -37,7 +37,7 @@ sistema_clinico/
 |
 main.py
 README.md
-
+```
 ---
 
 ## Cómo ejecutar el proyecto
